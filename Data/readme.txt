@@ -1,1 +1,2 @@
-En este directorio van los datos de prueba de los proyectos
+Sergio Franco - 202116614
+Moises Agudelo - 202113485
